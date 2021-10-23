@@ -17,7 +17,7 @@ void Draw()
        int aa=380, bb=190, cc=570, dd=342;
 
        glClear(GL_COLOR_BUFFER_BIT);
-       glColor3f(2,2,5);
+       glColor3f(0.2,0.2,0.5);
 
        int dy=dd-bb;
        int dx=cc-aa;
